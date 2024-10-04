@@ -1,0 +1,66 @@
+<TextView
+
+    android:id="@+id/textView"
+
+    android:layout_width="wrap_content"
+
+    android:layout_height="wrap_content"
+
+    android:text="Hello 11-01
+
+android:textSize="40sp
+
+    app:layout_constraintBottom_toBottomDf="parent
+
+    app:layout_constraintEnd_toEndOf="parent"
+
+    app:layout_constraintStart_toStartOf="parent"
+
+    app:layout_constraintTop_toTopDf="parent"
+
+    app:layout_constraintVertical_bias=0.287">
+
+    </TextView><Button
+
+android:id="@+id/button"
+
+android:layout_width="wrap_content"
+
+android:layout_height="wrap_content"
+
+android:layout_marginBottom="252dp"
+
+android:text="Button"
+
+app:layout_constraintBottom_toBottonOf="parent"
+
+app:layout_constraintEnd_toEndDf="parent"
+
+app:layout_constraintStart_toStartOf="parent" />
+
+    /androidx.constraintlayout.widget.ConstraintLayout>
+<Button
+
+android:id="@+id/button2"
+
+android:layout_width="wrap_content"
+
+android:layout_height="wrap_content"
+
+android:textSize="30sp"
+
+android:layout_marginStart="159dp"
+
+android:layout_marginTop="920p
+
+android:layout_marginEnd="164dp"
+
+    android:text="Start opperation"
+
+    app:layout_constraintEnd to EndOf="parent"
+
+    app:layout_constraintHorizontal bias="8.468
+
+    app:layout_constraintstart_toStartOf="parent"
+
+    app:layout_constraintTop_toBottonOf="@+id/textView" />
